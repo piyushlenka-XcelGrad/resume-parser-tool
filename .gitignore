@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+env/
+.myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Excel / generated output files (if your app creates them)
+*.xlsx
+
+# Logs
+*.log

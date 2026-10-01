@@ -1,5 +1,4 @@
-streamlit
-pandas
-PyPDF2
-python-docx
-openpyxl
+streamlit>=1.46
+pandas>=2.1
+pypdfium2>=4.30
+openpyxl>=3.1
